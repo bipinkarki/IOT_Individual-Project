@@ -5,8 +5,8 @@
 char auth[] = "AxsW4lT1lFdNa3V-oAfuLR2lh5pFol0K";
 
 /* WiFi credentials */
-char ssid[] = "Sam";
-char pass[] = "madan123";
+char ssid[] = "bipin";
+char pass[] = "bipin123";
 
 /* HC-SR501 Motion Detector */
 #define pirPin 5                // Input for HC-S501
